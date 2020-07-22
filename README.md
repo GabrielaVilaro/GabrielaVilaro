@@ -9,13 +9,13 @@
 
  ## :heavy_exclamation_mark: Las principales tecnologías que vas a ver en mi repositorio son: :heavy_exclamation_mark:
 
-  - :snake: **Python
-  - :beetle: **Pytest
-  - :beetle: **Selenium
-  - :beetle: **Unittest
-  - :beetle: **BDD con Behave y Gherkin
-  - :beetle: **Appium
-  - :open_file_folder: **Reportes con Allure Framework  
+  - :snake: **Python**
+  - :beetle: **Pytest**
+  - :beetle: **Selenium**
+  - :beetle: **Unittest**
+  - :beetle: **BDD con Behave y Gherkin**
+  - :beetle: **Appium**
+  - :open_file_folder: **Reportes con Allure Framework**  
   
   
    <p align="center"> <a href="https://ibb.co/JBrg1WH"><img src="https://i.ibb.co/Lk9HFD1/stack.png" alt="stack" border="0"></a> </p>
@@ -23,11 +23,11 @@
   
 ## :red_circle: Además...
       
-- :space_invader: **NodeJs, Api Restful
+- :space_invader: **NodeJs, Api Restful**
 
-- :beetle: **Mocha y Chai
+- :beetle: **Mocha y Chai**
 
-- :space_invader: **JavaScript, + HTML y CSS
+- :space_invader: **JavaScript, + HTML y CSS**
 
 
   <p align="center"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/VQvfxdX/stack-Node.png" alt="stack-Node" border="0"></a> </p>
