@@ -1,7 +1,7 @@
   # Gabriela Vilaró - Readme 👋
 
 
-  #### :mag: Soy QA Automation** , me especializo en Python :snake: , aunque también conozco y usé lenguajes como Nodejs, JS, y Java.
+  ### :mag: Soy QA Automation** , me especializo en Python :snake: , aunque también conozco y usé lenguajes como Nodejs, JS, y Java.
   ### :office: Actualmente trabajo en Ualá
   ### :office: También trabajé en Tsoft para banco Credicoop
   ### :computer: Actualmente estoy estudiando Tecnicatura Superior en Análisis de Sistemas Informáticos.
