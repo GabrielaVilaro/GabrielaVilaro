@@ -18,7 +18,7 @@
   - :open_file_folder: **Reportes con Allure Framework**  
   
   
-   <p align="center"> <a href="https://ibb.co/JBrg1WH"><img src="https://i.ibb.co/Lk9HFD1/stack.png" alt="stack" border="0"></a> </p>
+   <p align="center"> <a href="https://ibb.co/thB3wzk"><img src="https://i.ibb.co/kyKMVJk/imageonline-co-merged-image.png" alt="imageonline-co-merged-image" border="0"></a> </p>
    
   
 ## :red_circle: Además...
