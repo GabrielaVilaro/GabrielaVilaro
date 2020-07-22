@@ -25,11 +25,11 @@
   
 ### :red_circle: Además...
       
--:space_invader:NodeJs, Api Restful
+- :space_invader:NodeJs, Api Restful
 
--:beetle: Mocha y Chai
+- :beetle: Mocha y Chai
 
--:space_invader: JavaScript
+- :space_invader: JavaScript
 
 
   <p align="center"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/VQvfxdX/stack-Node.png" alt="stack-Node" border="0"></a> </p>
