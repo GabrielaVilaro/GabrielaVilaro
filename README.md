@@ -5,6 +5,8 @@
   - :office: Actualmente trabajo en Ualá
   - :office: También trabajé en Tsoft para banco Credicoop
   - :computer: Actualmente estoy estudiando Tecnicatura Superior en Análisis de Sistemas Informáticos.
+  
+      <a href="https://ibb.co/VJYybb4"><img src="https://i.ibb.co/mb5sddW/Screen-Shot-2020-07-22-at-13-52-58.png" alt="Screen-Shot-2020-07-22-at-13-52-58"     border="0"></a>
 
 
   :heavy_exclamation_mark: Las principales tecnologías que vas a ver en mi repositorio son: :heavy_exclamation_mark:
@@ -17,6 +19,8 @@
   - :beetle: Appium
   - :open_file_folder: Reportes con Allure Framework
   
+   <a href="https://ibb.co/JBrg1WH"><img src="https://i.ibb.co/Lk9HFD1/stack.png" alt="stack" border="0"></a>
+  
 -:red_circle: Además...
       
 -:space_invader:NodeJs, Api Restful
@@ -25,7 +29,10 @@
 
 -:space_invader: JavaScript
 
+   <a href="https://imgbb.com/"><img src="https://i.ibb.co/VQvfxdX/stack-Node.png" alt="stack-Node" border="0"></a>
+
+ 
+
 :bangbang: **Más abajo podés encontrar algunos de mis proyectos más destacados, y en repositories el resto ;)** :bangbang:
   
-
   
