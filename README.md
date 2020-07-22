@@ -7,7 +7,7 @@
   - :computer: Actualmente estoy estudiando Tecnicatura Superior en Análisis de Sistemas Informáticos.
 
 
-  :heavy_exclamation_mark: Las principales tecnologías que vas a ver en mi repositorio son:
+  :heavy_exclamation_mark: Las principales tecnologías que vas a ver en mi repositorio son: :heavy_exclamation_mark:
 
   - :snake: Python
   - :beetle: Pytest
