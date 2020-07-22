@@ -25,7 +25,7 @@
 
 -:space_invader: JavaScript
 
-:bangbang: **Más abajo podés encontrar algunos de mis proyectos más destacados, no dejes de mirar los demás en la sección Repositories!**
+:bangbang: **Más abajo podés encontrar algunos de mis proyectos más destacados, no dejes de mirar los demás en la sección Repositories!** :bangbang:
   
 
   
