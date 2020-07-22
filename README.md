@@ -5,8 +5,6 @@
   #### - :office: Actualmente trabajo en Ualá
   #### - :office: También trabajé en Tsoft para banco Credicoop
   #### - :computer: Actualmente estoy estudiando Tecnicatura Superior en Análisis de Sistemas Informáticos.
-  
-  <p align="center"> <a href="https://ibb.co/VJYybb4"><img src="https://i.ibb.co/mb5sddW/Screen-Shot-2020-07-22-at-13-52-58.png" alt="Screen-Shot-2020-07-22-at-13-52-58"     border="0"></a> </p>
 
 
  ## :heavy_exclamation_mark: Las principales tecnologías que vas a ver en mi repositorio son: :heavy_exclamation_mark:
