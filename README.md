@@ -15,8 +15,9 @@
   - :beetle: **Unittest**
   - :beetle: **BDD con Behave y Gherkin**
   - :beetle: **Appium**
+  - :open_file_folder: **Reportes con Allure Framework**
   - **Java - Junit**
-  - :open_file_folder: **Reportes con Allure Framework**  
+  -:open_file_folder **Page Object Model**
   
   
    <p align="center"> <a href="https://ibb.co/thB3wzk"><img src="https://i.ibb.co/kyKMVJk/imageonline-co-merged-image.png" alt="imageonline-co-merged-image" border="0"></a> </p>
