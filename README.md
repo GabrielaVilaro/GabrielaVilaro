@@ -15,6 +15,7 @@
   - :beetle: **Unittest**
   - :beetle: **BDD con Behave y Gherkin**
   - :beetle: **Appium**
+  - **Java - Junit**
   - :open_file_folder: **Reportes con Allure Framework**  
   
   
