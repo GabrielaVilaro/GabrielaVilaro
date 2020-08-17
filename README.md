@@ -16,7 +16,7 @@
   - :beetle: **BDD con Behave y Gherkin**
   - :beetle: **Appium**
   - :open_file_folder: **Reportes con Allure Framework**
-  - **Java - Junit**
+  - :coffee: **Java - Junit**
   - :open_file_folder: **Page Object Model**
   
   
