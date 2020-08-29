@@ -2,8 +2,6 @@
 
 
   #### - :mag: Soy QA Automation , uso lenguajes como Python, Java, Nodejs.
-  #### - :office: Trabajé en Ualá
-  #### - :office: También trabajé en Tsoft para banco Credicoop
   #### - :computer: Actualmente estoy estudiando Tecnicatura Superior en Análisis de Sistemas Informáticos.
 
 
