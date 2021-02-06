@@ -3,7 +3,7 @@
 
   #### - :mag: Soy QA Automation , uso lenguajes como Python, Java, Nodejs.
 
- ## :heavy_exclamation_mark: Las principales tecnologías que vas a ver en mi repositorio son: 
+ ## Las principales tecnologías que vas a ver en mi repositorio son: 
 
   - :snake: **Python**
   - :beetle: **Pytest**
@@ -19,7 +19,7 @@
    <p align="center"> <a href="https://ibb.co/thB3wzk"><img src="https://i.ibb.co/kyKMVJk/imageonline-co-merged-image.png" alt="imageonline-co-merged-image" border="0"></a> </p>
    
   
-## :red_circle: Además...
+## Además...
       
 - :space_invader: **NodeJs, Api Restful**
 
