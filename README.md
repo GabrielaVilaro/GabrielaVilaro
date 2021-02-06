@@ -2,10 +2,8 @@
 
 
   #### - :mag: Soy QA Automation , uso lenguajes como Python, Java, Nodejs.
-  #### - :computer: Actualmente estoy estudiando Tecnicatura Superior en Análisis de Sistemas Informáticos.
 
-
- ## :heavy_exclamation_mark: Las principales tecnologías que vas a ver en mi repositorio son: :heavy_exclamation_mark:
+ ## :heavy_exclamation_mark: Las principales tecnologías que vas a ver en mi repositorio son: 
 
   - :snake: **Python**
   - :beetle: **Pytest**
@@ -31,9 +29,5 @@
 
 
   <p align="center"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/VQvfxdX/stack-Node.png" alt="stack-Node" border="0"></a> </p>
-
- 
-
-## :bangbang: Más abajo podés encontrar algunos de mis proyectos más destacados, y en repositories el resto :bangbang:
   
   
