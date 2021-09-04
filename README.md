@@ -1,7 +1,7 @@
   # Gabriela Vilaró | QA Automation - Readme 👋
 
 
-  #### - :mag: Soy QA Automation , uso lenguajes como Python, Java, Nodejs.
+  #### - :mag: Soy QA Automation , uso lenguajes como Python, Java, Javascript.
 
  ## Las principales tecnologías que vas a ver en mi repositorio son: 
 
