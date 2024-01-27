@@ -1,12 +1,14 @@
   # Gabriela Vilaró | QA Automation - Readme 👋
 
 
-  #### - :mag: Soy QA Automation , uso lenguajes como Python, Java, Javascript.
+  #### - :mag: Soy Python Developer y SDET, uso lenguajes como Python, Java, Javascript.
 
  ## Las principales tecnologías que vas a ver en mi repositorio son: 
 
   - :snake: **Python**
   - :beetle: **Pytest**
+  - :beetle: **Flask**
+  - :beetle: **Pymongo**
   - :beetle: **Selenium**
   - :beetle: **Unittest**
   - :beetle: **BDD con Behave y Gherkin**
