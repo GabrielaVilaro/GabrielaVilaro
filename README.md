@@ -1,4 +1,4 @@
-  # Gabriela Vilaró | QA Automation - Readme 👋
+  # Gabriela Vilaró | Python Developer - SDET - Readme 👋
 
 
   #### - :mag: Soy Python Developer y SDET, uso lenguajes como Python, Java, Javascript.
