@@ -7,10 +7,11 @@
 
   - :snake: **Python**
   - :beetle: **Pytest**
-  - :beetle: **Flask**
+  - :beetle: **Playwright**
   - :beetle: **Pymongo**
   - :beetle: **Selenium**
   - :beetle: **Unittest**
+  - :beetle: **Requests**
   - :beetle: **BDD con Behave y Gherkin**
   - :beetle: **Appium**
   - :open_file_folder: **Reportes con Allure Framework**
